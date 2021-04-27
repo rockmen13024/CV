@@ -1,0 +1,1 @@
+This little scripts pulls a file from a phone connected by adb
