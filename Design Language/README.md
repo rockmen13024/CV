@@ -12,6 +12,7 @@ node index.js design.dsn canvas.svg
 
 ### How to use?
 In the .dsn file have to write one or more of the commands:
+    
     &This is a comment
     POSITION: x y - Moves the pen to a position, without drawing anything.
     LINE: x y type - Draws a line from the current position to a specified position or length and angle. 
