@@ -1,0 +1,17 @@
+&Drawing
+SET: %x 100
+SET: %y 200
+LINE:  %x %y location
+COLOR:  pen 0 0    255
+ADD: %x 200
+LINE:  %x %y location
+COLOR:  pen 255 0 0
+SUB: %x 100
+MUL: %y 2
+LINE:  %x %y location
+ELLIPSE:  100 location
+CIRCLE:   %radius 30  50  
+ELLIPSE: 200   400    100 150     
+COLOR:    pen 255 150 150
+COLOR:  fill 0 0 255
+RECTANGLE: 500 500  800 1000
