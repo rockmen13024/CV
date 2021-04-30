@@ -7,7 +7,7 @@ The purpose of the homework is to write an interpreter for the Design language. 
 Write an interpreter that receives a file with statements as parameter and writes a SVG file. If there was an error, it will output ERROR LINE followed by the line number: and the error text.
 
 ### Using
-tsc index.ts
+tsc index.ts;
 node index.js design.dsn canvas.svg
 
 ### How to use?
