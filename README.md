@@ -10,9 +10,9 @@ Implementation of a script that is able to run Linux bash like commands on a Mic
 
 ## 3. Personal projects
   - Android Debug Bridge (Adb)
-      - Little scripts that interact with my phone like Calling a Friend, Pulling a file or an Auto Clicker for a game I play.
+      - Little scripts like Calling a Friend, Pulling a file or an Auto Clicker for a game I play.
   - Backup (Bash)
-      - Backup method that I use on my linux machine, it regulary uploads a file on the cloud for me.
+      - Backup method that I use on my linux machine, it regularly uploads a file on the cloud for me.
   - Mailsender (Python)
       - A script that I used to send custom mails to a list of persons.
   - Raspberry Morse Code (Python)
