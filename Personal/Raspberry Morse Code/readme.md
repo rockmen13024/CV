@@ -7,8 +7,8 @@
     - raspberry pi 2+
     
 ## What is does
-    The program transforms a string into morse code and the simulates it on a led.
+    The program transforms a string into morse code and then simulates it on a led.
 
-## Using
+## How to use
     Run the program with python, an type the strings that you want to transform.
     The program supports only latin alphabet and arab numbers, and stops if it meets '!'.
