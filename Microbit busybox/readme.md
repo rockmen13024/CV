@@ -10,6 +10,7 @@ This homework's purpose is implementation of a script that is able to run Linux 
 
 ### Using
 The commands that can be used are:
+    
     led [parameter] x y - control the led on position x, y
         parameter can be one of:
             on - turns the led on
