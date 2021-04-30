@@ -8,7 +8,7 @@ Link https://ocw.cs.pub.ro/courses/sde2/teme/tema_ro_2_microbit_busybox
 
 This homework's purpose is implementation of a script that is able to run Linux bash like commands. It is wrote in micropython and can be run on a Microbit v2 board.
 
-### Using
+### How to use
 The commands that can be used are:
     
     led [parameter] x y - control the led on position x, y
